@@ -1,6 +1,6 @@
 using System.ComponentModel.DataAnnotations;
 
-namespace ToDoList.ViewModel
+namespace ToDoList.ViewModels
 {
   public class RegisterViewModel
   {
